@@ -1,7 +1,6 @@
 # ==============================
 # 1. IMPORT LIBRARIES
 # ==============================
-import pandas as pd
 from sklearn.preprocessing import LabelEncoder, StandardScaler, MinMaxScaler
 from sklearn.model_selection import train_test_split
 
